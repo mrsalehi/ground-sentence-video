@@ -23,7 +23,7 @@ mkl-service==2.0.2
 munch==2.3.2
 networkx==2.3
 nltk==3.4.5
-numpy==1.17.0
+numpy==1.22.0
 pandas==0.25.1
 Pillow==6.2.0
 pretrainedmodels==0.7.4
